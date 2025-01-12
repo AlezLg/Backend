@@ -1,0 +1,6 @@
+{"level":"error","message":"POST /auth/register","timestamp":"2025-01-12T03:45:40.565Z"}
+{"level":"error","message":"POST /auth/login","timestamp":"2025-01-12T03:45:49.057Z"}
+{"level":"error","message":"POST /auth/login","timestamp":"2025-01-12T03:45:50.720Z"}
+{"level":"error","message":"POST /auth/login","timestamp":"2025-01-12T03:45:51.208Z"}
+{"level":"error","message":"POST /auth/login","timestamp":"2025-01-12T03:45:51.472Z"}
+{"level":"error","message":"POST /auth/login","timestamp":"2025-01-12T03:45:52.179Z"}
