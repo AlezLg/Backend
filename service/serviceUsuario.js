@@ -3,8 +3,6 @@ import bcrypt from "bcrypt";
 import { Usuario } from "../model/ModelUsuarios.js";
 import { generateRefreshToken, generateAccessToken } from "../utils/Tokens.js";
 
-const bcrypt = require('bcryptjs');
-
 
 export const RegisterUser = async (username, password, email,telefono) => {
     const usuario = await Usuario.findOne({username});
